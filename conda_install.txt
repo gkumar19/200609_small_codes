@@ -1,0 +1,11 @@
+Datascience library:
+conda install -c anaconda spyder
+conda install -c conda-forge matplotlib
+conda install -c anaconda pandas
+conda install -c anaconda scikit-learn
+conda install -c anaconda seaborn
+conda install -c conda-forge tensorflow
+conda install -c plotly plotly
+conda install -c jmcmurray json
+conda install -c conda-forge scikit-optimize
+pip install tensorflow

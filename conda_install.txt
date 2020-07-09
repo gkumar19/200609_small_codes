@@ -11,3 +11,4 @@ conda install -c conda-forge scikit-optimize
 pip install tensorflow
 conda install -c conda-forge pdpbox
 conda install -c conda-forge scikit-optimize 
+conda install -c conda-forge xgboost

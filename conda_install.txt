@@ -9,3 +9,5 @@ conda install -c plotly plotly
 conda install -c jmcmurray json
 conda install -c conda-forge scikit-optimize
 pip install tensorflow
+conda install -c conda-forge pdpbox
+conda install -c conda-forge scikit-optimize 

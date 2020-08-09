@@ -12,3 +12,5 @@ pip install tensorflow
 conda install -c conda-forge pdpbox
 conda install -c anaconda py-xgboost
 conda install -c conda-forge shap
+conda install -c conda-forge wordcloud
+conda install -c conda-forge selenium

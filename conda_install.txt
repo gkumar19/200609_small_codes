@@ -6,6 +6,8 @@ conda install -c anaconda scikit-learn
 conda install -c anaconda seaborn
 conda install -c conda-forge tensorflow
 conda install -c plotly plotly
+conda install -c conda-forge dash
+conda install -c conda-forge dash-daq
 conda install -c jmcmurray json
 conda install -c conda-forge scikit-optimize
 pip install tensorflow
@@ -17,3 +19,4 @@ conda install -c conda-forge selenium
 conda install -c conda-forge spacy
 python -m spacy download en
 python -m spacy download en_core_web_sm
+pip install sweetviz

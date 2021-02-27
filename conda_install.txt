@@ -21,3 +21,4 @@ python -m spacy download en
 python -m spacy download en_core_web_sm
 pip install sweetviz
 conda install -c anaconda scipy
+conda install -c conda-forge notebook
